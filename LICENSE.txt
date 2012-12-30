@@ -1,0 +1,18 @@
+AVR Code Gallery - maxEmbedded
+==============================
+
+This repository is basically the AVR Code Gallery of maxEmbedded. You can find all the codes for all the AVR related posts here at one place. 
+
+LICENSE
+
+The user is free to modify, reuse, reproduce and distribute the code and its derivatives to any extent, whether for free or paid. The user can also use this code for commercial purposes. In other words,	do whatever you want with the code!
+
+Links:
+maxEmbedded Homepage: http://maxEmbedded.com/
+maxEmbedded Code Gallery Page: http://maxEmbedded.com/code-gallery/
+maxEmbedded Contact Page: http://maxEmbedded.com/contact/
+
+maxEmbedded is maintained and run by
+Mayank Prasad
+VIT University, Vellore
+
