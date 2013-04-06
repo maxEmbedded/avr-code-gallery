@@ -34,7 +34,7 @@
 #include <util/delay.h>
 #include <avr/eeprom.h>
  
-#define F_CPU 100000000
+#define F_CPU 1000000
  
 volatile uint16_t digits[5]={0,0,0,0,0}; //INITIALIZE VARIABLE TO STORE INDIVIDUAL DIGITS OF THE NUMBER
  
