@@ -14,4 +14,5 @@ maxEmbedded Contact Page: http://maxEmbedded.com/contact/
 
 maxEmbedded is maintained and run by
 Mayank Prasad
-VIT University, Vellore
+Arizona State University
+max@maxEmbedded.com
